@@ -65,6 +65,14 @@ h3 {
     z-index: 1000;
 }
 
+.copyright {
+    text-align: center;
+    font-size: 0.9em;
+    padding: 1em 0;
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
 .intro {
     text-align: center;
     padding: 3em;
@@ -161,4 +169,5 @@ h3 {
 .gallery-random-works-10 {
     padding: 1em;
 }
+
 
