@@ -91,3 +91,24 @@ h3 {
     text-align: center;
     display: block;
 }
+
+.star-mission {
+    background-color: #d49fff;
+    padding: 2.8em;
+    font-size: 1.2em;
+}
+
+.gallery-star-mission-1 {
+    text-align: center;
+    padding-bottom: 0.25em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+}
+
+.gallery-star-mission-2 {
+    text-align: center;
+    padding-bottom: 0.25em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+}
+
