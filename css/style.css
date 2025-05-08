@@ -80,3 +80,14 @@ h3 {
 .gallery-coffee {
    text-align: center;
 }
+
+.guitar {
+    background-color: #f78879;
+    padding: 2.8em;
+    font-size: 1.2em;
+}
+
+.gallery-guitar {
+    text-align: center;
+    display: block;
+}
