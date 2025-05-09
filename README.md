@@ -21,13 +21,13 @@ User Details:
     - a form for contact information
         - name, email, and message
         - submit button
-    - user may submit form and will be transfered to formspree.io
+    - user may submit form and will be transferred to formspree.io
 
 Technologies Used: html, css, figma (wireframes)
 
 Ideas for Future Improvement:
 
-- Adding a search engine to website to users can search for specfic art pieces
-- Adding a carsouel bootstrap to layout art in one section
-- Adding a shop page so users can buy specfic art pieces
+- Adding a search engine to website to users can search for specific art pieces
+- Adding a carousel bootstrap to layout art in one section
+- Adding a shop page so users can buy specific art pieces
 
