@@ -176,3 +176,18 @@ h3 {
     font-size: 1.2em;
 }
 
+.about-container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+    margin-left: 3em;
+    margin-right: 5em;
+    padding-top: 1em;
+}
+
+.portrait-illustation-container {
+    text-align: center;
+    padding: 5em;
+}
+
